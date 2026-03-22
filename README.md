@@ -1,1 +1,1 @@
-A minimalist template for DevContainer configuration.
+A minimalist template for using sympy on DevContainer with uv.
